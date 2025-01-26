@@ -5,7 +5,7 @@
 <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
 <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
 <h3>Caso queira olhar com mais atenção acesse o link abaixo:</h3>
-<a href="https://pietrominto.github.io/PortFolio-Digital/">PROJETO</a>
+<a href="https://portfolio-digital-pietro.netlify.app">PROJETO</a>
 <h3>Créditos aos icones usados no PortFolio:</h3>
 <a href="https://br.freepik.com/search">Ícone de IconsBox</a>
 <br/>
